@@ -1,4 +1,6 @@
 hello-world
 ===========
 
-Just another repository
+Hi all,
+I'm just trying to learn how github works. cheers.
+Tak ecare
